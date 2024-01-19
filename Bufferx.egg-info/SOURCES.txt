@@ -1,0 +1,10 @@
+LICENSE.txt
+README.md
+setup.cfg
+setup.py
+Bufferx/BufferArgv.py
+Bufferx.egg-info/PKG-INFO
+Bufferx.egg-info/SOURCES.txt
+Bufferx.egg-info/dependency_links.txt
+Bufferx.egg-info/requires.txt
+Bufferx.egg-info/top_level.txt
